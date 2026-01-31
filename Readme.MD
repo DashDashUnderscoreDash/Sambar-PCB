@@ -1,6 +1,8 @@
 # **Sambar**
 
-In this repo you will find:
+## 11u alpha stagger V4n style PCB inspired by the Subaru Sambar
+
+### In this repo you will find:
 ```
 - Layout options
 - Images of PCB
@@ -10,7 +12,6 @@ In this repo you will find:
 - Link to 3d print BEEP case
 ```
 
-## 11u alpha stagger V4n style PCB inspired by the Subaru Sambar
 
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/Sambar-PCB/blob/main/Images/Sambar%20KLC%20Layout%20Options.jpg)
