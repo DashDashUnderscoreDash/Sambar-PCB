@@ -1,6 +1,6 @@
 # **Sambar**
 
-## 11u alpha stagger V4n style PCB inspired by the Subaru Sambar
+Sambar is an 11u alpha stagger V4n style PCB inspired by the Subaru Sambar with leafsprings tadpole mounting
 
 ### In this repo you will find:
 ```
