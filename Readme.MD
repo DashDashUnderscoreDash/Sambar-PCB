@@ -16,7 +16,7 @@ Sambar is an STM32 11u alpha stagger V4N style PCB inspired by the Subaru Sambar
 
 
 ### KLC layout
-![KLC layout](https://github.com/DashDashUnderscoreDash/Sambar-PCB/blob/main/Images/Sambar%20KLC%20Layout%20Options.jpg)
+![KLC layout]()
 
 ### PCB images
 ![PCB Front](https://github.com/DashDashUnderscoreDash/Sambar-PCB/blob/main/Images/PCB%20Top%201080.png)
