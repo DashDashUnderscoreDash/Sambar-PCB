@@ -1,5 +1,7 @@
 # **Sambar**
 
+### These PCBs are fully tested and have had multiple runs - Confirmed working!
+
 Sambar is an STM32 11u alpha stagger V4N style PCB inspired by the Subaru Sambar with leafsprings tadpole mounting
 
 ### In this repo you will find:
